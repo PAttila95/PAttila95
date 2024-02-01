@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PAttila95
+- 👀 I’m interested in VBA programming and Office365, moreover, I'd like to learn other program language practice.
+- 🌱 I’m currently learning to cybersecurity officer.
+- 💞️ I’m looking for collaborate on cybersecurity solutions, practice, and TISAX compliance.
